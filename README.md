@@ -1,2 +1,12 @@
-# Position-Based_Salary_Predictor
-A simple machine learning project that predicts salaries based on job positions (e.g., Analyst, Manager, CEO) using polynomial regression. Ideal for beginners exploring non-linear models.
+# Salary Predictor Using Polynomial Regression
+
+This project predicts salaries based on job position levels using both linear and polynomial regression.
+
+## Features
+- Uses `Position_Salaries.csv` dataset
+- Trains linear and polynomial models
+- Plots actual vs predicted salaries
+- Predicts salary for Level 6
+
+## How to Use
+1. Replace `Position_Salaries.csv` with the desired dataset for applying polynomial regression.
